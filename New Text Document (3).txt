@@ -1,0 +1,4 @@
+pwd gvichvenebs direqtorias
+ls listi chamonatvali arsebul papkashi
+ls -la igive damaluli failebuii
+mkdir  folderis damateba
